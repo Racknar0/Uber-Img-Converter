@@ -1,0 +1,44 @@
+.dashboard_container{
+    background-image: url('../assets/wallpaper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.dashboard_login{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.box_converter{
+    border: 1px solid #000;
+    padding: 2rem;
+    background-color: #fff; 
+    border-radius: 10px;
+}
+
+.button_files{
+    background-color: rgb(111, 111, 111);
+    color: #fff;
+    border: none;
+    padding: 0.5rem 2rem;
+    border-radius: 1px;
+    cursor: pointer;
+    max-width: 300px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.drag_drop_container{
+    border: #000 1px dashed;
+}
+
+.input{
+    width: 100px;
+}
+
+.buton_convert{
+    padding: 0.5rem 1rem;
+}
+
+#file-upload{
+    display: none;
+}
